@@ -14,8 +14,11 @@ public class Main {
         secondWord = "ball";
 
         System.out.println(firstWord+secondWord);
-        System.out.print(firstWord+secondNumber);
-
+        System.out.println(firstWord+secondNumber);
+        System.out.println("firstNumber*thirdNumber is "+(firstNumber*thirdNumber));
+        System.out.println("firstNumber/thirdNumber is "+(firstNumber/thirdNumber));
+        System.out.println("firstNumber+thirdNumber is "+(firstNumber+thirdNumber));
+        System.out.println("firstNumber-thirdNumber is "+(firstNumber-thirdNumber));
 
 
 
