@@ -13,8 +13,9 @@ public class Main {
         firstWord = "Basket";
         secondWord = "ball";
 
-        System.out.print(firstWord+secondWord);
-        
+        System.out.println(firstWord+secondWord);
+        System.out.print(firstWord+secondNumber);
+
 
 
 
