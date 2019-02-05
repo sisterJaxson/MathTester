@@ -19,6 +19,7 @@ public class Main {
         System.out.println("firstNumber/thirdNumber is "+(firstNumber/thirdNumber));
         System.out.println("firstNumber+thirdNumber is "+(firstNumber+thirdNumber));
         System.out.println("firstNumber-thirdNumber is "+(firstNumber-thirdNumber));
+        System.out.println("The modulus of the thirdNumber by the firstNumber is "+(thirdNumber%firstNumber));
 
 
 
